@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Three.js/Node.js related
+node_modules/
+dist/
+build/
+.cache/
+*.log
+.vscode/
+.DS_Store
