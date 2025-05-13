@@ -17,12 +17,3 @@ class AttributePredictor:
         }
         """
         raise NotImplementedError("AttributePredictor.predict() not implemented")
-    
-
-
-
-
-
-
-
-    
